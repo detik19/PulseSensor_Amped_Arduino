@@ -25,11 +25,6 @@
 
 
 ## Pulse Sensor Hook-up
-Arduino Pin   | Pulse Sensor Cable Color
-------------- | -------------
-RED           | 5V or 3V   
-BLACK         | GND (GROUND)
-PURPLE        | ANALOG 0 (Zero)
 
 ![cablehookup](https://github.com/WorldFamousElectronics/PulseSensor_Amped_Arduino/blob/master/pics/cablehookup.png)
 
