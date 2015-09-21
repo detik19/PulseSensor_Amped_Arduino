@@ -25,6 +25,13 @@
 
 
 ## Pulse Sensor Hook-up
+Arduino Pin   | Pulse Sensor Cable Color
+------------- | -------------
+CENTER        | 5V or 3V   
+LEFT          | GND (GROUND)
+RIGHT         | ANALOG 0 (Zero)
+
+![diagram](https://github.com/detik19/PulseSensor_Amped_Arduino/blob/master/pics/diagram.png)
 
 ![cablehookup](https://github.com/WorldFamousElectronics/PulseSensor_Amped_Arduino/blob/master/pics/cablehookup.png)
 
